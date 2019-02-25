@@ -33,4 +33,4 @@ function drop(event) {
 
 function allowDrop(event) {
 	event.preventDefault();
-}
+};
